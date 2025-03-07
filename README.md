@@ -4,4 +4,4 @@
 #### Batch Time: 8:30
 #### Current topic: Terraform
 #### Number of students : 18
-#### Org : BSOFT
+#### Student name: Reshmi
