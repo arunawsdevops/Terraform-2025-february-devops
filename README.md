@@ -3,5 +3,5 @@
 ### Trainer Name: Arun
 #### Batch Time: 8:30
 #### Current topic: Terraform
-#### Number of students : 18
+
 #### Student name: Reshmi
