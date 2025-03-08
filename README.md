@@ -9,4 +9,4 @@
 #### Current topic: Terraform
 #### Number of students : 18
 #### Org : BSOFT
-
+### Type : Online
