@@ -2,7 +2,6 @@
 
 ### Student Name : Nahla
 
-
 ### Trainer Name: Arun
 #### Batch Time: 8:30
 #### Current topic: Terraform
