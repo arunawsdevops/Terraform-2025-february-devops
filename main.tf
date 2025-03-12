@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "christy-buket" {
-  bucket = "this-ismy-bucket"
+  bucket = var.bucket_name
   
 }
 
