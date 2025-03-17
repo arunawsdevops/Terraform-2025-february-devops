@@ -1,6 +1,6 @@
 # Terraform-2025-february-devops
 
-### Student Name : Sayand 
+### Student Name : Najiya Nasrin
 
 
 ### Trainer Name: Arun
