@@ -1,8 +1,9 @@
-resource "aws_s3_bucket" "christy-buket" {
-  bucket = var.bucket_name
+module "bucket-module" {
+    source = "./module-1"
   
 }
 
-resource "aws_vpc" "example" {
-  cidr_block = var.cidr_block
+module "ec2-module" {
+    source = "./module-2"
+  
 }
