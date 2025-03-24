@@ -1,12 +1,26 @@
-variable "bucket_name" {
-  description = "Name of the bucket"
-  type        = string 
-  default = "sayand-bucket-terraform"
-}
-
 variable "vpc_cidr_block" {
   description = "CIDR block of the VPC"
-  type        = string
-  default = "10.0.0.0/16"
+  type        = string 
+  
+}
 
+variable "instance_type" {
+  description = "type of instance"
+  type        = string
+
+}
+variable "instance_count" {
+  description = "Number of instance"
+  type = string
+  
+}
+variable "ami_id" {
+  description = "ami of instance"
+  type   = string
+  
+}
+variable "public_ip_assign" {
+  description = "assign public ip or not"
+  type   = bool
+  
 }
