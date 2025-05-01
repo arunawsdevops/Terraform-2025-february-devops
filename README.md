@@ -1,11 +1,5 @@
-# Terraform-2025-february-devops
+CODE WITH OUTPUT BLOCK
 
-### Student Name : Sayand 
-
-
-### Trainer Name: Arun
-#### Batch Time: 8:30
-#### Current topic: Terraform
-#### Number of students : 18
-#### Org : BSOFT
-
+This terraform code creates ec2 infra with public and private instances in
+a VPC of public and private subnet. The output block will print the public instance 
+output while apply.
